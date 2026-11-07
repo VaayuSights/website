@@ -75,6 +75,9 @@ Post Tuesday to Thursday, mid-morning IST. Weekends are dead for B2B.
 
 ### Post 2 — the question nobody asks until it is too late
 
+Image: `social/posts/post2-overlap.png`
+
+
 > "Can you build us a 3D model from this?"
 >
 > Sometimes the honest answer is no — and it is worth knowing why before you
@@ -99,6 +102,9 @@ Post Tuesday to Thursday, mid-morning IST. Weekends are dead for B2B.
 ---
 
 ### Post 3 — thermal
+
+Image: `social/posts/post3-thermal.png`
+
 
 > A solar panel that looks perfect can be costing you money.
 >
@@ -125,6 +131,9 @@ Post Tuesday to Thursday, mid-morning IST. Weekends are dead for B2B.
 
 ### Post 4 — for drone operators, not asset owners
 
+Image: `social/posts/post4-operators.png`
+
+
 > If you fly drones for a living, this one is for you.
 >
 > You are good at capture. Flight planning, GCPs, getting clean data off a
@@ -148,6 +157,9 @@ Post Tuesday to Thursday, mid-morning IST. Weekends are dead for B2B.
 ---
 
 ### Post 5 — aerial cleaning
+
+Image: `social/posts/post5-cleaning.png`
+
 
 > Clean panels produce more power. Everyone knows this. The question is what
 > cleaning costs you beyond the invoice.
