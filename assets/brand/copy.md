@@ -63,6 +63,112 @@ Pair with `assets/brand/social/launch-post-1200.png`.
 
 ---
 
+## 1b. Follow-up posts
+
+A page that posts once and goes quiet reads worse than one that never
+launched. These four keep it alive for a month. None of them claims a client,
+a result or a number we cannot stand behind.
+
+Post Tuesday to Thursday, mid-morning IST. Weekends are dead for B2B.
+
+---
+
+### Post 2 — the question nobody asks until it is too late
+
+> "Can you build us a 3D model from this?"
+>
+> Sometimes the honest answer is no — and it is worth knowing why before you
+> commission a survey.
+>
+> A 3D reconstruction is not built from photographs of a thing. It is built
+> from photographs that overlap each other by 70 to 80 percent, flown in a
+> deliberate pattern, with oblique passes for anything vertical.
+>
+> Inspection photos are different. A few close-ups of a cracked panel are
+> perfect for defect detection and useless for reconstruction. There is
+> nothing wrong with the images. They were flown for a different question.
+>
+> So if a 3D model is on your list, decide that before the drone goes up, not
+> after. The flight plan changes.
+>
+> Send us a sample from any survey and we will tell you straight what it can
+> and cannot produce. No charge for that answer.
+>
+> #DroneSurvey #Photogrammetry #DigitalTwin #AssetManagement
+
+---
+
+### Post 3 — thermal
+
+> A solar panel that looks perfect can be costing you money.
+>
+> Visible-light imagery shows you what is broken. Thermal shows you what is
+> failing.
+>
+> A cell with a bad solder joint, a bypass diode that has given up, a string
+> that has quietly disconnected — none of it leaves a mark you can photograph.
+> It leaves heat.
+>
+> That is the whole case for radiometric thermal: it finds the faults that
+> have not become visible damage yet, while they are still cheap to fix.
+>
+> The catch is that a thermal image is only as good as the conditions it was
+> flown in. Irradiance, time of day, panel temperature, wind — get those wrong
+> and you get a pretty picture with no diagnostic value.
+>
+> If you already fly thermal, send us a set. We will tell you whether the
+> conditions support a real fault analysis.
+>
+> #ThermalImaging #SolarEnergy #PredictiveMaintenance #OandM
+
+---
+
+### Post 4 — for drone operators, not asset owners
+
+> If you fly drones for a living, this one is for you.
+>
+> You are good at capture. Flight planning, GCPs, getting clean data off a
+> difficult site in a short window. That is a real skill and it is not ours.
+>
+> Processing and analysis is a different job. Photogrammetry runs, defect
+> classification across thousands of frames, point clouds, volumetrics,
+> reports a client's engineer will actually accept. It eats time you would
+> rather spend flying.
+>
+> We do that half. You keep the client, you keep the relationship, we stay
+> behind the scenes.
+>
+> If you have ever turned down a job because the processing load was not worth
+> it, that is the conversation we would like to have.
+>
+> pranaam@vaayusights.in
+>
+> #DroneServices #Photogrammetry #Partnership #DroneOperators
+
+---
+
+### Post 5 — aerial cleaning
+
+> Clean panels produce more power. Everyone knows this. The question is what
+> cleaning costs you beyond the invoice.
+>
+> Scaffolding. Roof access permits. A rope team and the paperwork that comes
+> with them. A shutdown window. Somebody on a surface that was not designed to
+> be walked on.
+>
+> Drone cleaning removes most of that. The array stays live, nobody goes up,
+> and the work happens in hours rather than days.
+>
+> We run our own crews for this — solar arrays, high-rise glazing, roofs,
+> industrial structures. Waterless or spray, depending on the surface.
+>
+> And because we also read the imagery, we can tell you what the cleaning
+> actually recovered rather than asking you to take it on faith.
+>
+> #SolarOandM #DroneCleaning #FacadeCleaning #RenewableEnergy
+
+---
+
 ## 2. LinkedIn company page
 
 | Field | Value |
