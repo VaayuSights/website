@@ -76,6 +76,8 @@ Keep text at least 4mm inside the trim edge.
 - `email-signature.html` — open in a browser, copy the rendered block, paste into Gmail or Outlook
 - `copy.md` — LinkedIn post, Google Business Profile, WhatsApp Business, short bios
 - `enquiry-playbook.md` — what to do when a lead lands, with the email wording
+- `proposal-template.md` / `proposal-example.pdf` — the three engagement shapes
+- `invoice-template.md` / `invoice-example.pdf` — bill of supply now, tax invoice after GST
 
 ## Colours
 
