@@ -75,6 +75,7 @@ Keep text at least 4mm inside the trim edge.
 - `vaayusights-one-pager.pdf` — A4 services overview, for emailing prospects
 - `email-signature.html` — open in a browser, copy the rendered block, paste into Gmail or Outlook
 - `copy.md` — LinkedIn post, Google Business Profile, WhatsApp Business, short bios
+- `enquiry-playbook.md` — what to do when a lead lands, with the email wording
 
 ## Colours
 
