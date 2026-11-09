@@ -62,6 +62,22 @@ hello@ out of habit. A bounced first enquiry is not worth the saving.
 | `linkedin-logo.png` | LinkedIn page logo (300×300) |
 | `linkedin-banner.png` | LinkedIn cover (1512×256, same design as `linkedin-cover-1512x256.png`) |
 
+### `logo/backgrounds/`
+
+Reference sheets, not assets to send anyone. They show what the logo does on
+five grounds, including the two it fails on.
+
+| File | What it shows |
+|---|---|
+| `vaayusights-on-dark.png` | Correct. The colour logo as intended. |
+| `vaayusights-on-blue.png` | Correct. Holds on a mid-dark brand colour. |
+| `vaayusights-black-on-white.png` | Correct. The one-colour file on a light ground. |
+| `vaayusights-on-white.png` | **A failure, shown on purpose.** The colour logo on white — "VAAYU" washes out. |
+| `vaayusights-on-grey.png` | **A failure, shown on purpose.** Same problem on mid-grey. |
+
+Despite the name, `vaayusights-on-white.png` is not the file to use on a white
+page. That is `logo/vaayusights-full-black.png`.
+
 ### `print/`
 | File | Notes |
 |---|---|
@@ -69,7 +85,8 @@ hello@ out of habit. A bounced first enquiry is not worth the saving.
 | `business-card-back.png` | Same. **Fill in name, role and phone before printing.** |
 
 Give the printer both files and tell them the 3mm bleed is already included.
-Keep text at least 4mm inside the trim edge.
+Type sits at least 5mm inside the trim edge on both faces, so a cut that
+drifts a millimetre still looks deliberate.
 
 ### Documents
 - `vaayusights-one-pager.pdf` — A4 services overview, for emailing prospects
