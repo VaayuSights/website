@@ -23,14 +23,17 @@ Pair with `assets/brand/social/launch-post-1200.png`.
 >
 > We read aerial data. Send us drone imagery — flown by your team, your operator, or a capture we arrange — and we return defects ranked by severity, digital twins you can measure, volumetrics, and reports your engineers can act on.
 >
-> 𝗬𝗼𝘂 𝗱𝗼 𝗻𝗼𝘁 𝗻𝗲𝗲𝗱 𝘂𝘀 𝘁𝗼 𝗳𝗹𝘆.
+> You do not need us to fly.
+>
 > If you already have a drone team, or a hard drive of surveys nobody has looked at properly, that is the whole starting point. No capture of ours required.
 >
 > What comes back:
 >
-> 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 — hotspots, cracks and defects found across thousands of frames in minutes
-> 𝗧𝘄𝗶𝗻𝘀 — photorealistic 3D models and point clouds you measure from your desk
-> 𝗧𝗿𝗲𝗻𝗱𝘀 — repeat surveys showing what is changing, so it gets fixed before it fails
+> Detection — hotspots, cracks and defects found across thousands of frames in minutes
+>
+> Twins — photorealistic 3D models and point clouds you measure from your desk
+>
+> Trends — repeat surveys showing what is changing, so it gets fixed before it fails
 >
 > Every finding is reviewed by an engineer before it reaches you.
 >
@@ -56,10 +59,11 @@ Pair with `assets/brand/social/launch-post-1200.png`.
   left. Be aware that a contact replying "congratulations <name>" in the
   comments undoes the anonymity in one line, so ask them to engage with the
   page rather than with you.
-- Plain text only. Avoid the bold-unicode trick in the body: screen readers
-  read those characters as gibberish or skip them. The two bold lines kept
-  below are a deliberate exception for scanning; drop them if you would rather
-  the post stayed fully accessible.
+- Plain text only, here and in every post. The bold-unicode trick is
+  mathematical symbols wearing the shape of letters: screen readers announce
+  them character by character or skip them, so "Detection" becomes noise to
+  anyone using one. Emphasis comes from a short line standing on its own,
+  which is why "You do not need us to fly." is its own paragraph.
 
 ### Shorter version
 
