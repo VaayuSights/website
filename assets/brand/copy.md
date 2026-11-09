@@ -17,7 +17,7 @@ Pair with `assets/brand/social/launch-post-1200.png`.
 
 > A utility-scale solar farm can run to more than 100,000 panels.
 >
-> Right now, a handful of them are underperforming. Finding *which* ones is the job.
+> Right now, a handful of them are underperforming. Finding which ones is the job.
 >
 > We're VaayuSights, and we've just opened.
 >
@@ -43,9 +43,23 @@ Pair with `assets/brand/social/launch-post-1200.png`.
 > #DroneInspection #ThermalImaging #SolarEnergy #DigitalTwins #AssetManagement #ComputerVision #RenewableEnergy
 
 **Posting notes**
-- Post from the company page, then reshare from your personal profile — personal reshares reach several times more people.
-- Reply to every comment in the first two hours. That window decides whether LinkedIn keeps showing the post.
-- No links in the post body; LinkedIn suppresses reach on those. Put the website in the first comment.
+- Post as the page. Do **not** reshare from a personal profile: that is what
+  would attach a name to the company, and the page is anonymous by choice.
+  It costs reach — a new page normally spreads through the founder's own
+  network — which is exactly why the next two bullets matter more here than
+  they would for most launches.
+- Reply to every comment in the first two hours, as the page. That window
+  decides whether LinkedIn keeps showing the post.
+- No links in the post body; LinkedIn suppresses reach on those. Put the
+  website in the first comment, posted as the page, straight after publishing.
+- Sending the page link privately to contacts is fine and is the main lever
+  left. Be aware that a contact replying "congratulations <name>" in the
+  comments undoes the anonymity in one line, so ask them to engage with the
+  page rather than with you.
+- Plain text only. Avoid the bold-unicode trick in the body: screen readers
+  read those characters as gibberish or skip them. The two bold lines kept
+  below are a deliberate exception for scanning; drop them if you would rather
+  the post stayed fully accessible.
 
 ### Shorter version
 
