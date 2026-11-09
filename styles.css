@@ -98,7 +98,9 @@ html.splash-lock, html.splash-lock body { overflow: hidden; height: 100%; }
 /* ---------------- WORDMARK LOCKUP (drone mark + live brand text) ---------------- */
 .wordmark-lockup { display: grid; justify-items: center; gap: 16px; text-align: center; }
 .wordmark-lockup .wm-mark {
-  width: min(300px, 56vw); height: auto; display: block;
+  /* Sized for the tight-cropped emblem (609x409). The earlier 300px/56vw
+     assumed the old 805x416 canvas, which carried ~196px of dead space. */
+  width: min(227px, 42vw); height: auto; display: block;
   filter: drop-shadow(0 8px 30px rgba(255, 130, 30, .5));
 }
 .wordmark {

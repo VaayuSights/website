@@ -60,7 +60,7 @@ hello@ out of habit. A bounced first enquiry is not worth the saving.
 | `youtube-banner-2560x1440.png` | YouTube channel art (content kept inside the 1546×423 safe area) |
 | `launch-post-1200.png` | The announcement post |
 | `linkedin-logo.png` | LinkedIn page logo (300×300) |
-| `linkedin-banner.png` | LinkedIn cover (1128×191) |
+| `linkedin-banner.png` | LinkedIn cover (1512×256, same design as `linkedin-cover-1512x256.png`) |
 
 ### `print/`
 | File | Notes |
@@ -115,9 +115,15 @@ Emblem alone: 28px. Below that the drone and eye stop reading.
 ## Resolution ceiling
 
 The wordmark is live type set in Orbitron, so it is sharp at any size — the
-name is never baked into pixels. The emblem is artwork, 805px wide, and that
-is the real ceiling: about 68mm at 300dpi.
+name is never baked into pixels. The emblem is artwork, 609×409px, and that
+is the real ceiling: about 51mm at 300dpi.
 
 That covers business cards, the one-pager and every screen use. For anything
 larger — a banner, a vehicle wrap, an exhibition stand — ask whoever created
-the logo for the original vector file. Scaling the emblem past 68mm will soften.
+the logo for the original vector file. Scaling the emblem past 51mm will soften.
+
+An earlier version of this file said 805px and 68mm. That came from a stray
+fragment of artwork stranded in the bottom-right corner of the emblem canvas,
+which stretched the file about 196px wider than the drawing. The fragment is
+gone and the canvas is now cropped to the drawing itself, so anything that
+centres the emblem centres it properly. The honest ceiling was always 51mm.
