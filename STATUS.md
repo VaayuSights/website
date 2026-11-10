@@ -38,7 +38,7 @@ as the product.
 | Contact form | Web3Forms, key in `script.js`, delivers to pranaam@ |
 | LinkedIn | linkedin.com/company/vaayusights |
 | Search Console | verified, sitemap submitted, site indexed |
-| Google Business | verified; edit appeal approved 9 Nov (routing ID DPNB) |
+| Google Business | verified. Category reads Engineering consultant, logo and cover up, services split. Confirmed 10 Nov |
 | Domain | vaayusights.in at GoDaddy. Auto-renew OFF, expires 3 Nov 2028 |
 
 DNS carries four GitHub A records, `www` → vaayusights.github.io, Zoho MX/SPF/
@@ -113,10 +113,8 @@ that will convert better than anything stock.
 
 | | |
 |---|---|
-| **Business phone + WhatsApp** | Biggest gap. No number anywhere. When it exists, add click-to-call and a WhatsApp button to the site |
-| **Google Business category** | Appeal approved 9 Nov. Allow 24h, then confirm the primary category reads `Engineering consultant`, not `IT support and services` |
-| **"Digital Twins Photogrammetry"** | One Google service entry that should be two |
-| **Google Business photos** | Logo and cover not uploaded. `social/profile-square-1080.png` and `social/gbp-cover-1200x675.png` |
+| **Business phone + WhatsApp** | Biggest gap. No number anywhere. Google flags it on the profile too. When it exists, add click-to-call and a WhatsApp button to the site |
+| **Launch post** | Written, imagery ready, page ready. Not yet published |
 | **DMARC** | At `p=none`. Tighten to `p=quarantine` once mail has been reliable for a few weeks |
 | **Domain auto-renew** | Off. Turn on, or diarise Nov 2028 |
 | **GitHub 2FA** | Not enabled on the owner account, which controls the website |
