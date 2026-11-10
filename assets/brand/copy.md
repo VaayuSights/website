@@ -207,7 +207,7 @@ Image: `social/posts/post5-cleaning.png`
 | URL | `linkedin.com/company/vaayusights` — permanent, cannot be changed |
 | Website | `https://vaayusights.in` |
 | Industry | `IT Services and IT Consulting` |
-| Company size | `1-10 employees` |
+| Company size | `2-10 employees` — LinkedIn offers no 1-10 band |
 | Type | `Privately Held` |
 | Location | Pune, Maharashtra |
 
@@ -264,9 +264,22 @@ one of those. Industry is editable at any time; the page URL is not.
 **The page is deliberately anonymous.** Page admins are not public on LinkedIn,
 so the company is visible and its owner is not. To keep it that way: do not add
 VaayuSights to a personal profile's experience, and post and comment only as the
-page. The cost is reach — a new page spreads mainly through the founder
-resharing to their own network — so lean on Google Business Profile and direct
-outreach meanwhile. Reversible in two minutes whenever you choose.
+page. Reversible in two minutes whenever you choose.
+
+Administer the page from your own personal account. Do **not** make a separate
+LinkedIn account for the company: a personal profile may only represent a real
+person, so a company-named profile is against LinkedIn's rules, an invented
+person is a false identity, and your own name on a second profile is a
+duplicate account. All three risk restriction, and a restricted account that
+holds the page takes the page with it. This was attempted and reversed on
+10 Nov 2026.
+
+**What anonymity actually costs.** Two levers, and no account structure gets
+round either. Page invitations are sent from the admin's personal profile and
+show their name to every recipient. A reshare from a personal profile does the
+same. Those are the two things that grow a page from nothing, so while the
+anonymity stands, lean on Google Business Profile, search and direct outreach
+instead.
 
 ---
 

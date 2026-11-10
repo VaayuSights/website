@@ -59,6 +59,26 @@ VaayuSights, and the LinkedIn page has no public admins. Two habits keep it
 that way: always act **as the page** on LinkedIn, and never add VaayuSights to
 a personal profile.
 
+The LinkedIn page is administered from the owner's own personal account. That
+is deliberate and it is the compliant arrangement: LinkedIn page admins are
+not shown publicly, so the owner stays anonymous without any second account.
+
+**Do not create a separate LinkedIn account for the company.** This was tried
+on 10 Nov and reversed the same morning. Every possible name for such an
+account breaks a LinkedIn rule — the company's name is a company name on a
+personal profile, an invented person is a false identity, and the owner's own
+name is a second account for one person. A profile named "Vaayu Sights,
+Owner at VaayuSights" also surfaced on the page's People tab, where a
+photo-less account named after the company reads as a fake page to anyone who
+looks. Worse, had the page been transferred to it and that account later
+restricted, the page would have gone with it. The account was closed.
+
+Two things the anonymity genuinely does cost, and no account structure avoids
+them: page invitations are sent from the admin's personal profile and carry
+their name, and a reshare from a personal profile does the same. Those are the
+two biggest growth levers for a new page, so they stay unused unless the owner
+decides the association is acceptable.
+
 **Naming.** Aerial Cleaning, never Panel Cleaning. "Drone cleaning" belongs in
 body copy where people search for it, not in the service name, where it reads
 as cleaning the drones. Specific terms like Solar Panel Cleaning stay in the
