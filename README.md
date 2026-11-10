@@ -1,57 +1,53 @@
-# VaayuSights — The Intelligent Eye From Above
+# VaayuSights — aerial-data analysis
 
-A futuristic, **multi-page** marketing website for **VaayuSights**, a technology-driven
-company delivering end-to-end **drone and AI-powered solutions** for the renewable
-energy, infrastructure, industrial and commercial sectors.
+**VaayuSights is an aerial-data analysis practice serving clients across India.**
+Send us drone imagery — flown by your own team, your operator, or a capture we
+arrange — and we return defects ranked by severity, photorealistic digital twins,
+volumetrics and decision-ready reports. Every finding is reviewed by an engineer
+before it reaches you. We also clean solar arrays, glazing, roofs and industrial
+structures by drone, with our own crews.
 
-> *वायु · Air Intelligence* — see more from above, decide smarter on the ground.
+**You don't need us to fly.** If you already have a drone team, or surveys sitting
+on a drive, that's the whole starting point.
 
-## 🗺️ Pages
+### → [vaayusights.in](https://vaayusights.in) · [pranaam@vaayusights.in](mailto:pranaam@vaayusights.in)
 
-| Page | File | Contents |
-| --- | --- | --- |
-| Home | `index.html` | Animated hero, real logo, capability ticker, highlights, CTA (with intro splash) |
-| Services | `services.html` | The six core services + the full capability stack |
-| Sectors | `sectors.html` | Renewable energy, infrastructure, industrial, commercial |
-| Projects | `projects.html` | Case studies — featured project + grid (placeholder imagery) |
-| About | `about.html` | Capture → Process → Analyze → Report pipeline + why VaayuSights |
-| Contact | `contact.html` | Contact details + enquiry form |
+*वायु — air. See · Sense · Analyze · Prevent.*
 
-Every page shares the same nav (with an active-page highlight) and footer.
+---
 
-## ✨ Highlights
+This repository holds the source of the website published at
+**https://vaayusights.in**, plus the brand pack. It is public because GitHub Pages
+serves the site from it. It is not the product, and nothing here is a client
+deliverable.
 
-- **Real brand logo** — the drone emblem in the nav/footer, the full lockup floating
-  in the hero, and an animated **intro splash** on the Home page.
-- **Animated aerial backdrop** — an interactive particle/constellation field on `<canvas>`.
-- **Animated stat counters**, scroll-reveal, glassmorphism cards, and a responsive
-  mobile menu.
+## What is in it
 
-## 🧱 Tech
-
-100% vanilla **HTML + CSS + JavaScript** — no build step, no frameworks, no external
-requests. Runs anywhere and is ready for GitHub Pages.
-
-| File | Purpose |
+| Path | Contents |
 | --- | --- |
-| `index.html`, `services.html`, `sectors.html`, `about.html`, `contact.html` | The five pages |
-| `styles.css` | Shared theme, layout, animations, responsive rules |
-| `script.js` | Canvas field, scroll reveal, counters, nav, splash, form |
-| `assets/` | Brand assets (`vaayusights-logo.png` full lockup, `vaayusights-emblem.png` mark, `vaayusights-icon.png` square icon) |
+| `index.html` and the five other pages | The site. Home, Services, Sectors, Capabilities, About, Contact |
+| `styles.css`, `script.js` | Shared theme and behaviour |
+| `assets/` | Site photography, fonts, icons |
+| `assets/brand/` | Brand pack — logo files, copy, templates, print artwork |
+| `STATUS.md` | Operating notes. Read this first |
 
-## 🚀 Run it
+## How it is built
 
-Open `index.html` in any modern browser, or serve the folder so page links resolve:
+Vanilla HTML, CSS and JavaScript. No build step, no framework. Served by GitHub
+Pages from `main`, with a `CNAME` pointing at the apex domain.
+
+To work on it locally:
 
 ```bash
 python3 -m http.server 8000
 # then visit http://localhost:8000
 ```
 
-## ♿ Notes
+## Notes
 
-- Fully responsive with an accessible mobile nav.
-- Respects `prefers-reduced-motion` — the particle field, animations and the intro
-  splash are disabled for users who request reduced motion.
-- Contact details in `contact.html` (email/phone/location) are placeholders — update
-  them with your real information.
+- Responsive down to phone width, with an accessible mobile nav.
+- Respects `prefers-reduced-motion` — the canvas field, scroll animations and the
+  intro splash are all disabled when a visitor asks for reduced motion.
+- The site makes no claims about past client work. Capture is described as
+  partner-run throughout, because it is. See `STATUS.md` for the rules that keep
+  the copy honest.
