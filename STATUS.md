@@ -96,7 +96,18 @@ a name could escape:
 | **Zoho sending name** | If the mailbox display name is the owner's real name, every email to a prospect shows it. The most likely leak now |
 | **Send-from address** | The mailbox is shri@; the alias is pranaam@. Replying from shri@ exposes a partial first name. Keep pranaam@ as the default |
 | **GitHub org members** | Check github.com/orgs/VaayuSights/people logged out; it should list nobody |
-| **LinkedIn behaviour** | A comment made as the person rather than as the page carries their name permanently |
+| **LinkedIn profile** | ✅ Checked logged out on 10 Nov and clean: nothing under Experience, Activity or Interests. Re-check after any month of activity — a like or comment made as the person rather than as the page carries their name permanently, and following the page from the personal account would list it under Interests |
+
+**One leak the audit missed, found the same evening.** Every GitHub Actions run
+on this repository records the owner's GitHub username, profile link and avatar,
+and the Actions tab of a public repository is public. There were 24 such runs.
+The audit checked commit authorship, which is clean, but not run attribution.
+
+It is not fixed. The remedy is `MIGRATION.md` — moving hosting to Netlify so the
+repository can go private, which also stops it outranking vaayusights.in in
+search. Making the repository private hides the existing runs but does not erase
+that they were once visible; only renaming the GitHub account would, and that is
+a separate decision nobody has taken.
 
 **Naming.** Aerial Cleaning, never Panel Cleaning. "Drone cleaning" belongs in
 body copy where people search for it, not in the service name, where it reads
