@@ -79,6 +79,25 @@ their name, and a reshare from a personal profile does the same. Those are the
 two biggest growth levers for a new page, so they stay unused unless the owner
 decides the association is acceptable.
 
+**Audited 10 Nov 2026 and clean.** Every published page, stylesheet, script,
+sitemap and template: no name, and `pranaam@vaayusights.in` is the only address
+that appears. All 19 commits are authored and committed as VaayuSights, and
+GitHub links none of them to an account, so no username or avatar shows beside
+them. Every PNG and JPG was checked for EXIF author, GPS and camera-owner
+fields and carries none, the client photos included. The three PDFs carry only
+Chromium and Skia as creator. The structured data is ProfessionalService with
+no Person entity.
+
+Four things cannot be checked from the repo and are the only places left where
+a name could escape:
+
+| | |
+|---|---|
+| **Zoho sending name** | If the mailbox display name is the owner's real name, every email to a prospect shows it. The most likely leak now |
+| **Send-from address** | The mailbox is shri@; the alias is pranaam@. Replying from shri@ exposes a partial first name. Keep pranaam@ as the default |
+| **GitHub org members** | Check github.com/orgs/VaayuSights/people logged out; it should list nobody |
+| **LinkedIn behaviour** | A comment made as the person rather than as the page carries their name permanently |
+
 **Naming.** Aerial Cleaning, never Panel Cleaning. "Drone cleaning" belongs in
 body copy where people search for it, not in the service name, where it reads
 as cleaning the drones. Specific terms like Solar Panel Cleaning stay in the
