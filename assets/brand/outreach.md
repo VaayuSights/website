@@ -121,12 +121,73 @@ work to take off their hands.
 
 ---
 
-## 4. The follow-up
+## 4. Analysis support — inspection and analytics companies
+
+A different kind of prospect: organisations that already capture aerial data and
+already have analysts. The pitch is capacity behind their team, not analysis
+instead of it. Deliberately says nothing about how the recipient runs their
+operation — a two-week-old practice telling a funded company where its
+bottlenecks are reads badly, and the generic version works on everyone.
+
+**Subject:** `Analysis support — VaayuSights, Pune`
+
+> Hello [ name ],
+>
+> I am writing to introduce VaayuSights, an aerial-data analysis practice based
+> in Pune, India. We provide analysis support to organisations working with
+> aerial inspection data.
+>
+> What we take on:
+>
+> Defect review and classification to an agreed taxonomy. Quality assurance and
+> second-pass audit. Annotation for training sets — boxes, polygons, masks and
+> classification. Report production to an agreed template. We work in thermal
+> and RGB imagery across blades, panels and structures, and every batch is
+> reviewed by an engineer before it returns.
+>
+> Analysis is entirely in-house. We do not operate a drone fleet, so we are not
+> in competition with any capture operation.
+>
+> If it would be useful to see the quality rather than discuss it: send us ten
+> turbines and we will return the completed analysis within two working days,
+> at no cost.
+>
+> That turnaround is possible because detection runs through our own pipeline
+> rather than frame by frame. Every finding is still reviewed by an engineer
+> before it leaves us — the speed is in the first pass, not in the judgement.
+>
+> We work under NDA, do not subcontract, and delete source imagery on
+> completion.
+>
+> If this is not relevant, a one-line reply saying so is genuinely useful and I
+> will not follow up.
+>
+> Regards,
+> VaayuSights
+> Aerial-data analysis · Pune, India
+> pranaam@vaayusights.in · vaayusights.in
+
+**Send it to Operations or Engineering, never sales.** Director of Operations,
+Head of Inspection Services, Head of Delivery, or an engineering manager for
+perception. Sales files a vendor email under vendor.
+
+**The paragraph about the pipeline is not optional.** Ten turbines is one to
+four thousand images; anyone technical will work out that it cannot be done by
+hand in two days. Explaining that first-pass detection is automated and
+judgement is human turns an implausible claim into the most interesting line in
+the email. Only send it while that is true — if the pipeline needs hand-holding,
+offer three turbines in five working days instead. A kept small promise beats a
+missed large one, and a pilot is the only evidence of competence a cold prospect
+will ever have.
+
+---
+
+## 5. The follow-up
 
 Send once, five working days later, on the same thread. Most replies come from
 this one, and most people never send it. Send it once and then stop.
 
-**Subject:** leave it as `Re: <the original subject>`
+Works for all four emails above. **Subject:** leave it as `Re: <the original subject>`
 
 > Short follow-up on the below.
 >
