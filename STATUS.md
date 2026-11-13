@@ -136,9 +136,21 @@ that will convert better than anything stock.
 
 ## Content calendar
 
-Launch post Tue 10 Nov, then Wednesdays: 18 Nov, 25 Nov, 2 Dec, 9 Dec. All five
-written with imagery, in `assets/brand/copy.md` sections 1 and 1b, images under
-`assets/brand/social/`.
+Launch post Tue 10 Nov, then Wednesdays. The brand film took the 18 Nov slot on
+13 Nov, pushing the four written posts back a week each:
+
+| Date | Post | Where |
+|---|---|---|
+| Tue 10 Nov | Launch — 100,000 panels | copy.md §1 · posted |
+| Wed 18 Nov | Brand film, 50s square | copy.md §1c · `video/` |
+| Wed 25 Nov | The question nobody asks | copy.md §1b · `social/posts/post2-overlap` |
+| Wed 2 Dec | Thermal — what a hotspot tells you | copy.md §1b · `social/posts/post3-thermal` |
+| Wed 9 Dec | For drone operators | copy.md §1b · `social/posts/post4-operators` |
+| Wed 16 Dec | Aerial cleaning | copy.md §1b · `social/posts/post5-cleaning` |
+
+The film goes up as a native upload, not a link — LinkedIn buries posts that
+send people off-platform, and a native video autoplays in the feed. The same
+film is on `/about` under the page hero.
 
 Post as the page. No links in the post body — LinkedIn throttles those; put the
 website in the first comment instead. Reply to comments within the first couple

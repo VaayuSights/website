@@ -199,6 +199,33 @@ Image: `social/posts/post5-cleaning.png`
 
 ---
 
+## 1c. The brand film — Wed 18 Nov
+
+File: `video/vaayusights-about-square.mp4` (1080×1080, 50 seconds)
+
+Upload the file to LinkedIn directly. Do not post a link to the copy on the
+website — LinkedIn buries posts that send people off the platform, and a
+native upload autoplays in the feed while a link does not.
+
+The film has no narration. Everything is written on screen, which is what
+you want: most of the feed watches with the sound off, and the music is
+there for the people who turn it on, not for the ones who don't.
+
+Caption:
+
+> Fifty seconds on what we actually do.
+>
+> Imagery comes in — flown by your team, your operator, or a capture we
+> arrange. Ranked findings go out.
+>
+> No narration. It reads with the sound off.
+>
+> #AerialInspection #DroneInspection #SolarOandM #WindEnergy #AssetIntegrity
+
+First comment: `vaayusights.in/about`
+
+---
+
 ## 2. LinkedIn company page
 
 | Field | Value |
