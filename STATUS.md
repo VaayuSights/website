@@ -37,7 +37,7 @@ as the product.
 | Mailbox | shri@vaayusights.in, with aliases pranaam@, pranam@, hello@, info@ |
 | Contact form | Web3Forms, key in `script.js`, delivers to pranaam@ |
 | LinkedIn | linkedin.com/company/vaayusights |
-| Search Console | being set up 13 Nov. Was previously recorded here as verified and indexed — it never was. See below |
+| Search Console | verified. Sitemap submitted 6 Nov, last read 12 Nov, Success, 6 pages discovered. 1 page indexed of 8 known — see below |
 | Google Business | verified. Category reads Engineering consultant, logo and cover up, services split. Confirmed 10 Nov |
 | Google account | 5421vaayusights@gmail.com — a dedicated business account, not a personal one. Holds the Business Profile and Search Console. No 2FA yet |
 | Domain | vaayusights.in at GoDaddy. Auto-renew OFF, expires 3 Nov 2028 |
@@ -49,33 +49,46 @@ DKIM, and a DMARC record at `p=none`.
 
 ## Search indexing
 
-As of 13 Nov the site is in **no** search index — not Brave, not Google. A
-direct search for the domain returns nothing from it. The site itself is fine:
-robots.txt allows everything, the sitemap is valid, every page has a canonical
-URL, title, description and Open Graph tags, and the homepage carries
-ProfessionalService structured data. Nothing is blocked.
+Checked properly on 13 Nov, in Search Console rather than by guessing from a
+web search. Google has the site. Brave does not.
 
-The cause is age and links. The domain is three days old and almost nothing
-points at it — LinkedIn marks its outbound links so crawlers ignore them. The
-GitHub repo outranks the site because GitHub is crawled constantly and carries
-authority the new domain has none of.
+Sitemap submitted 6 Nov, last read 12 Nov, Success, 6 pages discovered. Page
+indexing (Google's data as of 9 Nov) reads 1 indexed, 7 not indexed, and the
+three reasons account for every known URL:
 
-Being done 13 Nov: Search Console domain property, verified by a TXT record at
-GoDaddy, then sitemap submission and indexing requests on the main pages. Bing
-Webmaster Tools imports from Search Console in one click and feeds DuckDuckGo
-and Yahoo too.
+| Reason | Pages | Verdict |
+|---|---|---|
+| Page with redirect | 1 | Benign — www/http redirecting to the canonical destination |
+| Alternate page with proper canonical tag | 1 | Benign — a duplicate URL correctly pointing at its canonical |
+| Discovered – currently not indexed | 5 | The five interior pages. The only real one |
+
+"Discovered – currently not indexed" means Google knows the URLs exist and has
+chosen not to crawl them yet. Not blocked, not broken, not penalised —
+deprioritised. Discovery already worked; what has not happened is Google
+deciding a domain this new is worth the crawl budget. There is no technical
+fault to fix. Performance shows 2 clicks around 7 Nov, so the one indexed page
+is already appearing in real results.
+
+The site's own SEO is correct and was verified: robots.txt allows everything,
+the sitemap is valid, every page has a canonical URL, title, description and
+Open Graph tags, and the homepage carries ProfessionalService structured data.
+
+Two things move it, and only two. Requesting indexing per URL in Search
+Console, which pushes a URL into the crawl queue — a request, not a command,
+and Google says repeating it does not help. And inbound links, which are the
+actual fix and the slower one: the LinkedIn page's website field, the Google
+Business Profile's website field, trade directories.
 
 Brave has no submission form at all — an independent index with no webmaster
-console. It will arrive on its own once links and traffic exist. Don't use
-Brave as the measure of whether indexing worked; use `site:vaayusights.in` on
-Google.
+console. Nothing to pull. Don't use Brave as the measure of whether indexing
+worked; use `site:vaayusights.in` on Google.
 
 Open: the GitHub repo's **description field** still carries the old positioning
 ("technology-driven company delivering end-to-end drone and AI-powered
-solutions"). The README was rewritten; that one-line field was not. It is
-currently the only thing a searcher finds, and it describes the business
-wrongly. The Netlify migration removes the result entirely by letting the repo
-go private.
+solutions"). The README was rewritten; that one-line field was not. It
+currently outranks the site for the brand name, so it is the first thing a
+searcher reads, and it describes the business wrongly. The Netlify migration
+removes the result entirely by letting the repo go private.
 
 ---
 
