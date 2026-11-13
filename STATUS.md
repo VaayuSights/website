@@ -89,6 +89,15 @@ state that reads "URL is unknown to Google / No referring sitemaps detected"
 before the real data arrives. It is not the answer. Wait for the panel to
 settle before reading anything off it.
 
+**Bing Webmaster Tools**, set up 13 Nov. Imported from Search Console, so no
+separate verification was needed — but the import carried no sitemap across,
+so `sitemap.xml` was submitted by hand (Processing, 0 errors) and all six URLs
+pushed through URL Submission. Bing is far more generous than Google here: 100
+URLs a day for immediate crawl rather than a priority queue. Bing's index also
+feeds DuckDuckGo and Yahoo. Data takes up to 48 hours to appear. The account
+grant is View-Only on Search Console and can be revoked at myaccount.google.com
+→ Security → Third-party access.
+
 Brave has no submission form at all — an independent index with no webmaster
 console. Nothing to pull. Don't use Brave as the measure of whether indexing
 worked; use `site:vaayusights.in` on Google.
