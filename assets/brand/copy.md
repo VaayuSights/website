@@ -233,7 +233,7 @@ First comment: `vaayusights.in/about`
 | Name | `VaayuSights` |
 | URL | `linkedin.com/company/vaayusights` — permanent, cannot be changed |
 | Website | `https://vaayusights.in` |
-| Industry | `IT Services and IT Consulting` |
+| Industry | `Engineering Services` — changed from `IT Services and IT Consulting` on 13 Nov. We are not an IT consultancy, and LinkedIn uses industry to decide who sees the page. Also matches the Google Business Profile category, Engineering consultant |
 | Company size | `2-10 employees` — LinkedIn offers no 1-10 band |
 | Type | `Privately Held` |
 | Location | Pune, Maharashtra |
