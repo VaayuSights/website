@@ -93,12 +93,14 @@ Brave has no submission form at all — an independent index with no webmaster
 console. Nothing to pull. Don't use Brave as the measure of whether indexing
 worked; use `site:vaayusights.in` on Google.
 
-Open: the GitHub repo's **description field** still carries the old positioning
-("technology-driven company delivering end-to-end drone and AI-powered
-solutions"). The README was rewritten; that one-line field was not. It
-currently outranks the site for the brand name, so it is the first thing a
-searcher reads, and it describes the business wrongly. The Netlify migration
-removes the result entirely by letting the repo go private.
+The GitHub repo's **description field** was fixed on 13 Nov. It had kept the
+old positioning ("technology-driven company delivering end-to-end drone and
+AI-powered solutions") after the README was rewritten, and since the repo
+outranks the site for the brand name, that stale line was the first thing a
+searcher read. It now describes the analysis practice, and the repo's Website
+field points at vaayusights.in — a real inbound link from a high-authority
+domain, which is what the site needs most. The Netlify migration would remove
+the result entirely by letting the repo go private.
 
 ---
 
