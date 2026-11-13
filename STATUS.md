@@ -84,6 +84,12 @@ projects, about, contact. All five confirmed added to the priority crawl queue.
 Do not resubmit; Google states plainly that repeat requests do not change queue
 position. Check progress with `site:vaayusights.in` on Google in about a week.
 
+Inbound links as of 13 Nov, all three confirmed pointing at the site: the
+GitHub repo's Website field, the LinkedIn page's Website URL, and the Google
+Business Profile's website. That is the lot. Directory listings (IndiaMART,
+Justdial, a drone or renewables trade directory) are the obvious next ones and
+none exist yet.
+
 A practical note for next time: the URL Inspection panel renders a half-loaded
 state that reads "URL is unknown to Google / No referring sitemaps detected"
 before the real data arrives. It is not the answer. Wait for the panel to
