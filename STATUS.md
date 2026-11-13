@@ -37,12 +37,45 @@ as the product.
 | Mailbox | shri@vaayusights.in, with aliases pranaam@, pranam@, hello@, info@ |
 | Contact form | Web3Forms, key in `script.js`, delivers to pranaam@ |
 | LinkedIn | linkedin.com/company/vaayusights |
-| Search Console | verified, sitemap submitted, site indexed |
+| Search Console | being set up 13 Nov. Was previously recorded here as verified and indexed — it never was. See below |
 | Google Business | verified. Category reads Engineering consultant, logo and cover up, services split. Confirmed 10 Nov |
+| Google account | 5421vaayusights@gmail.com — a dedicated business account, not a personal one. Holds the Business Profile and Search Console. No 2FA yet |
 | Domain | vaayusights.in at GoDaddy. Auto-renew OFF, expires 3 Nov 2028 |
 
 DNS carries four GitHub A records, `www` → vaayusights.github.io, Zoho MX/SPF/
 DKIM, and a DMARC record at `p=none`.
+
+---
+
+## Search indexing
+
+As of 13 Nov the site is in **no** search index — not Brave, not Google. A
+direct search for the domain returns nothing from it. The site itself is fine:
+robots.txt allows everything, the sitemap is valid, every page has a canonical
+URL, title, description and Open Graph tags, and the homepage carries
+ProfessionalService structured data. Nothing is blocked.
+
+The cause is age and links. The domain is three days old and almost nothing
+points at it — LinkedIn marks its outbound links so crawlers ignore them. The
+GitHub repo outranks the site because GitHub is crawled constantly and carries
+authority the new domain has none of.
+
+Being done 13 Nov: Search Console domain property, verified by a TXT record at
+GoDaddy, then sitemap submission and indexing requests on the main pages. Bing
+Webmaster Tools imports from Search Console in one click and feeds DuckDuckGo
+and Yahoo too.
+
+Brave has no submission form at all — an independent index with no webmaster
+console. It will arrive on its own once links and traffic exist. Don't use
+Brave as the measure of whether indexing worked; use `site:vaayusights.in` on
+Google.
+
+Open: the GitHub repo's **description field** still carries the old positioning
+("technology-driven company delivering end-to-end drone and AI-powered
+solutions"). The README was rewritten; that one-line field was not. It is
+currently the only thing a searcher finds, and it describes the business
+wrongly. The Netlify migration removes the result entirely by letting the repo
+go private.
 
 ---
 
