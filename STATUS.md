@@ -79,6 +79,16 @@ and Google says repeating it does not help. And inbound links, which are the
 actual fix and the slower one: the LinkedIn page's website field, the Google
 Business Profile's website field, trade directories.
 
+**13 Nov:** indexing requested on all five interior pages — services, sectors,
+projects, about, contact. All five confirmed added to the priority crawl queue.
+Do not resubmit; Google states plainly that repeat requests do not change queue
+position. Check progress with `site:vaayusights.in` on Google in about a week.
+
+A practical note for next time: the URL Inspection panel renders a half-loaded
+state that reads "URL is unknown to Google / No referring sitemaps detected"
+before the real data arrives. It is not the answer. Wait for the panel to
+settle before reading anything off it.
+
 Brave has no submission form at all — an independent index with no webmaster
 console. Nothing to pull. Don't use Brave as the measure of whether indexing
 worked; use `site:vaayusights.in` on Google.
