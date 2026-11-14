@@ -33,6 +33,7 @@ as the product.
 | | |
 |---|---|
 | Website | https://vaayusights.in — GitHub Pages, from `VaayuSights/website`, branch `main` |
+| Phone | +91 88845 54215 — postpaid, taken 14 Nov. Click-to-call and WhatsApp in the footer of all six pages and on the contact page, and in the email signature |
 | Email | pranaam@vaayusights.in — Zoho, India data centre (mail.zoho.in) |
 | Mailbox | shri@vaayusights.in, with aliases pranaam@, pranam@, hello@, info@ |
 | Contact form | Web3Forms, key in `script.js`, delivers to pranaam@ |
@@ -197,7 +198,8 @@ that will convert better than anything stock.
 
 | | |
 |---|---|
-| **Business phone + WhatsApp** | Biggest gap. No number anywhere. Google flags it on the profile too. When it exists, add click-to-call and a WhatsApp button to the site |
+| **Put the number where it is still missing** | The SIM exists and the site carries it. Still to do by hand: Google Business Profile (Google is prompting for it), the LinkedIn page Phone field, WhatsApp Business using the messages in `copy.md` §5, and claiming the number on Truecaller as VaayuSights before contacts saving it under a personal name propagate there |
+| **NDA review** | Draft written 14 Nov, held privately, not in this repo. Mutual, two pages, six questions for the reviewer at the top. Do not sign it until a CA has read it |
 | **DMARC** | At `p=none`. Tighten to `p=quarantine` once mail has been reliable for a few weeks |
 | **Domain auto-renew** | Off. Turn on, or diarise Nov 2028 |
 | **GitHub 2FA** | Not enabled on the owner account, which controls the website |
