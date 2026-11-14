@@ -198,12 +198,36 @@ that will convert better than anything stock.
 | | |
 |---|---|
 | **Business phone + WhatsApp** | Biggest gap. No number anywhere. Google flags it on the profile too. When it exists, add click-to-call and a WhatsApp button to the site |
-| **Launch post** | Written, imagery ready, page ready. Not yet published |
 | **DMARC** | At `p=none`. Tighten to `p=quarantine` once mail has been reliable for a few weeks |
 | **Domain auto-renew** | Off. Turn on, or diarise Nov 2028 |
 | **GitHub 2FA** | Not enabled on the owner account, which controls the website |
 | **Real project imagery** | The single highest-value upgrade once jobs are delivered |
-| **Company registration + GST** | Not done. Most corporate clients will ask |
+| **Company registration + GST** | Not done. Most corporate clients will ask. Export invoices to overseas clients are zero-rated once registered, which matters if the Tier 2 outreach lands |
+
+---
+
+## The rate card
+
+Built 14 Nov. **It is deliberately not in this repo, because this repo is
+public.** Pricing floors, margins and the income target are exactly what a
+competitor would want, and a prospect who finds the cheapest tier will anchor
+on it before any quote is given. It lives as a file outside the repo — keep a
+copy somewhere durable and private.
+
+What is safe to record here: pricing is per asset for inspection, per MW for
+solar, per km for linear assets, per hectare for mapping, with a day rate as
+the anchor for anything non-standard, and retainers as the thing to steer
+toward. There is a minimum project fee. Quotes are never given before seeing
+data — `enquiry-playbook.md` §5.
+
+Two numbers in it are measured and two are assumed. Wind throughput is measured
+at ten turbines a day. Solar throughput is extrapolated from it and has never
+been tested — measure it on the first paid solar job and revise that table
+before quoting a large plant.
+
+Review the card when the first solar job is delivered, after three jobs in
+total, when GST registration completes, and any time two clients in a row
+accept the first price without negotiating.
 
 ---
 
