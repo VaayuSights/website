@@ -21,16 +21,31 @@
   The logo loads from vaayusights.in rather than being embedded, because most
   mail clients strip embedded images as suspicious.
 
+  WHY THE EMBLEM SITS ON A DARK PANEL. The colour emblem is built to glow
+  against dark. On white its lower tail strokes lose the glow, the dark
+  outlines dominate, and it reads as a grey smudge — the legibility failure
+  README.md line 23 describes. The README's own remedy is to put the colour
+  logo inside a dark panel on a light page, which is what the first cell does.
+  It also means the emblem looks identical whether the reader is in light mode
+  or dark mode.
+
+  WHY THE TABLE SETS AN EXPLICIT WHITE BACKGROUND. Without it, aggressive
+  dark-mode clients (Apple Mail, some Outlook builds) invert the block and the
+  near-black name and contact lines vanish against the new dark ground. An
+  explicit bgcolor is honoured by most clients and keeps the signature
+  readable. It is not bulletproof — no email signature is — but it fails far
+  less often than leaving the background undefined.
+
   Fonts are web-safe on purpose. Mail clients do not load custom fonts, so
   Orbitron would silently fall back and look inconsistent.
 -->
-<table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;color:#2b2320;">
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="background-color:#ffffff;font-family:Arial,Helvetica,sans-serif;color:#2b2320;">
   <tr>
-    <td style="padding-right:16px;border-right:3px solid #ff7a18;vertical-align:middle;">
+    <td bgcolor="#0a0708" style="background-color:#0a0708;padding:14px 16px;border-right:3px solid #ff7a18;vertical-align:middle;">
       <img src="https://vaayusights.in/assets/vaayusights-emblem.png"
-           alt="VaayuSights" width="96" style="display:block;width:96px;height:auto;border:0;">
+           alt="VaayuSights" width="88" style="display:block;width:88px;height:auto;border:0;">
     </td>
-    <td style="padding-left:16px;vertical-align:middle;">
+    <td style="padding:14px 0 14px 16px;vertical-align:middle;">
       <div style="font-size:16px;font-weight:bold;letter-spacing:.5px;color:#1b1512;">
         VaayuSights
       </div>
