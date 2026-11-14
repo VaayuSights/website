@@ -224,79 +224,18 @@ sample, then quote.
 
 ---
 
-## Target list — who to approach
+## Target list
 
-Built 13 Nov from search results only. **Nothing here was verified by reading a
-company's own site** — the sandbox had no outbound network access that day — and
-every "largest", "leading" or "India's top" claim below is the company's own
-marketing, not an independent finding. Check each one before writing to it.
+**Not in this repo — this repo is public.** A list of the companies we are
+about to approach, with notes on which are competitors, is not something to
+publish. It is held as a private file alongside the rate card.
 
-### First, the thing that changes the pitch
+What is safe to record here is the shape of it. Indian drone operators first,
+because they can be met in person, they tend to lack processing staff, and a
+reply is plausible in the same week — section 2 is the email for them. Global
+inspection firms second, using section 4, and only once one job has been
+delivered and can be pointed at.
 
-India already has a drone-data-processing outsourcing industry, and it sells to
-exactly the overseas clients VaayuSights would target. MAPe IT Solutions
-(Chennai) states outright that it provides drone data processing outsourcing to
-clients in the USA, UK, Middle East and Australia. Geodraft India (Karnataka)
-lists photogrammetry, LiDAR processing and classification. Goodland Surveys
-(Chennai), AIRPIX and Spatem GeoTeck all sell processing as a service.
-
-These are competitors, not prospects. It means "Indian firm, cheaper, overnight
-turnaround" is not a differentiator — several firms already say it, some for
-nearly a decade. What is left to compete on is the engineer-reviewed second pass
-and defect judgement rather than bulk photogrammetry output. Keep the pitch on
-analysis and judgement, not on processing volume or price.
-
-### Tier 1 — Indian drone operators (use section 2)
-
-The warmest prospects, and the right place to start. Same time zone, no trust
-gap from being offshore, and operators genuinely tend to lack processing staff.
-A two-week-old practice can get a reply here in the same week.
-
-| Company | Base | Why |
-|---|---|---|
-| Garuda Aerospace | Chennai | Drone-as-a-service at scale; catalogue includes solar panel inspection, cleaning and thermography |
-| Lesoko | Chennai | Full-stack claim, self-reported 34+ GW inspected — volume implies a processing load |
-| RevDrones | Gujarat | Radiometric thermal fault detection on utility solar, DGCA-certified |
-| Varuna Aerotech | Ahmedabad | Thermal inspection to IEC 62446-3:2022 — works to a standard, so a taxonomy conversation is easy |
-| Soaring Aerotech | — | Solar plant inspection, DGCA approved |
-| Aeroyantra | Delhi | DGCA-certified pilots, inspection-led |
-| Elion | — | Solar farm thermography, handles flight planning and permissions |
-| Pixroot | — | Publishes steadily on solar thermography in India |
-
-Skip **ideaForge** for this pitch. They are a UAV manufacturer, not a survey
-services business, so there is no analysis queue to take work from.
-
-### Tier 2 — global inspection and analytics firms (use section 4)
-
-Higher value, much harder, and slower. Expect procurement, NDAs and a pilot
-before anything moves. Worth writing to a few, but not before Tier 1 has
-produced a delivered job to point at.
-
-Best-fit first, by how their own words describe a human analysis step:
-
-1. **Applus+** — describes AI-collected data being "analysed and validated by
-   technicians who are blade inspection experts". That is precisely the
-   second-pass work this practice sells. The closest fit found.
-2. **Sulzer & Schmid** — rotor blade inspection, built on detailed visual
-   analysis of blade condition. Human-judgement heavy.
-3. **Above Surveying** — Essex, UK, founded 2016, serves solar asset owners
-   worldwide through its SolarGain processing application. Real analysis volume.
-4. **Zeitview** — already drafted in section 4, not yet sent.
-5. **Cyberhawk** — high-value asset inspection, tailored service models.
-6. **Nearthlab**, **Perceptual Robotics**, **vHive**, **SkyVisor**,
-   **Percepto**, **Clobotics**, **Delair**, **Sentera** — platform-led, so the
-   analysis is largely their product. Lower priority.
-
-Deprioritise **Raptor Maps** and **Sitemark**. Both are software companies whose
-automated detection *is* the product; Raptor Maps coordinates capture through a
-network of drone service providers rather than employing analysts. There is
-little human analysis to support.
-
-### Sequencing
-
-Tier 1 until one job has been delivered. Then Tier 2, with that job as the only
-evidence a cold prospect will ever care about. Section 4's ten-turbine offer is
-the hook for Tier 2; section 2's 20–30 frames is the hook for Tier 1.
-
-Do not start either at volume before the rate card exists. A reply asking "what
-do you charge" with no answer ready wastes the one opening that outreach buys.
+Several Indian firms already sell drone-data processing to overseas clients and
+have done for years. "Indian, cheap, overnight turnaround" is therefore not a
+differentiator. The pitch rests on engineer-reviewed judgement instead.
