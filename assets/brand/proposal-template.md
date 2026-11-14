@@ -130,7 +130,8 @@ predictable.
 Protects both sides. Be specific rather than defensive.
 
 ```
-- [ Pricing assumes imagery meets the capture spec in Appendix A ]
+- [ Pricing assumes imagery meets the capture spec in `capture-spec.md`,
+    attached as Appendix A ]
 - [ A re-fly, if the supplied data cannot support the deliverables,
     is quoted separately ]
 - [ Excludes physical repair, electrical testing, certification ]
