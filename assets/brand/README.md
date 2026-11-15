@@ -51,8 +51,8 @@ hello@ out of habit. A bounced first enquiry is not worth the saving.
 | `vaayusights-full-black.png` | One-colour, for light backgrounds and plain printing. |
 | `vaayusights-full-white.png` | One-colour, for dark backgrounds. |
 | `vaayusights-emblem-black.png` | Emblem, one colour, for light backgrounds. |
-| `vaayusights-emblem-ember.png` | Emblem filled solid brand orange. Light backgrounds, where the flat black reads as lifeless. |
-| `vaayusights-emblem-ember-grad.png` | Emblem filled with the site gradient. **The email signature uses this one.** Keeps the brand alive on white without the pale highlights that make the full-colour emblem fail there. |
+| `vaayusights-emblem-ember.png` | Emblem filled solid brand orange. **The email signature uses this one.** For light backgrounds, where the flat black reads as lifeless. |
+| `vaayusights-emblem-ember-grad.png` | Emblem filled with the site gradient. An alternative to the solid fill; holds up less well at small sizes, where a gradient can band. |
 | `vaayusights-emblem-white.png` | Emblem, one colour, for dark backgrounds. |
 
 ### `social/`
