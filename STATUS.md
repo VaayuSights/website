@@ -33,7 +33,6 @@ as the product.
 | | |
 |---|---|
 | Website | https://vaayusights.in — GitHub Pages, from `VaayuSights/website`, branch `main` |
-| Phone | +91 88845 54215 — postpaid, taken 14 Nov. Click-to-call and WhatsApp in the footer of all six pages and on the contact page, and in the email signature |
 | Email | pranaam@vaayusights.in — Zoho, India data centre (mail.zoho.in) |
 | Mailbox | shri@vaayusights.in, with aliases pranaam@, pranam@, hello@, info@ |
 | Contact form | Web3Forms, key in `script.js`, delivers to pranaam@ |
@@ -198,7 +197,7 @@ that will convert better than anything stock.
 
 | | |
 |---|---|
-| **Put the number where it is still missing** | The SIM exists and the site carries it. Still to do by hand: Google Business Profile (Google is prompting for it), the LinkedIn page Phone field, WhatsApp Business using the messages in `copy.md` §5, and claiming the number on Truecaller as VaayuSights before contacts saving it under a personal name propagate there |
+| **No published phone number, by decision** | A postpaid SIM was taken on 14 Nov and the number was published across the site, the signature, the Google Business Profile and the LinkedIn page. On 15 Nov the owner decided against having a number published anywhere, and it was stripped from the repo. **Still to remove by hand: the Google Business Profile and the LinkedIn page Phone field.** Consequence to accept: Google will resume prompting for a phone number and the profile-strength score will drop, and enquiries have no route but email and the contact form |
 | **NDA review** | Draft written 14 Nov, held privately, not in this repo. Mutual, two pages, six questions for the reviewer at the top. Do not sign it until a CA has read it |
 | **DMARC** | At `p=none`. Tighten to `p=quarantine` once mail has been reliable for a few weeks |
 | **Domain auto-renew** | Off. Turn on, or diarise Nov 2028 |

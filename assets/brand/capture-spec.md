@@ -139,4 +139,4 @@ the full survey will work, at no cost, before you commit a day to it. That is
 a cheaper conversation than either of us wants to have afterwards.
 
 **VaayuSights** · Aerial-data analysis · Pune, India
-+91 88845 54215 · pranaam@vaayusights.in · vaayusights.in
+pranaam@vaayusights.in · vaayusights.in
