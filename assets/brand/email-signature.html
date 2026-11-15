@@ -22,13 +22,15 @@
   The logo loads from vaayusights.in rather than being embedded, because most
   mail clients strip embedded images as suspicious.
 
-  WHY THE EMBLEM SITS ON A DARK PANEL. The colour emblem is built to glow
-  against dark. On white its lower tail strokes lose the glow, the dark
-  outlines dominate, and it reads as a grey smudge — the legibility failure
-  README.md line 23 describes. The README's own remedy is to put the colour
-  logo inside a dark panel on a light page, which is what the first cell does.
-  It also means the emblem looks identical whether the reader is in light mode
-  or dark mode.
+  WHY THE ONE-COLOUR BLACK EMBLEM. The colour emblem is built to glow against
+  dark; on white its lower tail strokes lose the glow, the dark outlines
+  dominate and it reads as a grey smudge — the legibility failure README.md
+  line 23 describes. An earlier version solved that with a dark panel behind
+  the colour emblem, which worked but sat heavy in a mail thread, repeating a
+  black block down every reply. The one-colour black emblem reads as letterhead
+  instead. The brand colour survives in the rule, the tagline and the website
+  link. Trade-off accepted: the dark panel was immune to dark mode, whereas
+  this relies on the white background below being honoured.
 
   WHY THE TABLE SETS AN EXPLICIT WHITE BACKGROUND. Without it, aggressive
   dark-mode clients (Apple Mail, some Outlook builds) invert the block and the
@@ -42,8 +44,8 @@
 -->
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="background-color:#ffffff;font-family:Arial,Helvetica,sans-serif;color:#2b2320;">
   <tr>
-    <td bgcolor="#0a0708" style="background-color:#0a0708;padding:14px 16px;border-right:3px solid #ff7a18;vertical-align:middle;">
-      <img src="https://vaayusights.in/assets/vaayusights-emblem.png"
+    <td style="padding:14px 16px 14px 0;border-right:3px solid #ff7a18;vertical-align:middle;">
+      <img src="https://vaayusights.in/assets/brand/logo/vaayusights-emblem-black.png"
            alt="VaayuSights" width="88" style="display:block;width:88px;height:auto;border:0;">
     </td>
     <td style="padding:14px 0 14px 16px;vertical-align:middle;">
