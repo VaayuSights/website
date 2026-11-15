@@ -198,7 +198,9 @@ that will convert better than anything stock.
 | | |
 |---|---|
 | **No published phone number, by decision** | A postpaid SIM was taken on 14 Nov and the number was published across the site, the signature, the Google Business Profile and the LinkedIn page. On 15 Nov the owner decided against having a number published anywhere, and it was stripped from the repo. **Still to remove by hand: the Google Business Profile and the LinkedIn page Phone field.** Consequence to accept: Google will resume prompting for a phone number and the profile-strength score will drop, and enquiries have no route but email and the contact form |
-| **NDA review** | Draft written 14 Nov, held privately, not in this repo. Mutual, two pages, six questions for the reviewer at the top. Do not sign it until a CA has read it |
+| **Legal review — NDA and services agreement** | Both drafted and held privately, not in this repo. The NDA is mutual, two pages. The services agreement is a master agreement signed once per client plus a one-page statement of work per job, so liability is not renegotiated every time a dataset arrives. Each carries questions for the reviewer at the top. One review covers both. **Nothing is signed until that happens** |
+| **Professional indemnity insurance** | Not taken. Analysis that tells someone what to repair is advice, and some corporate vendor forms require cover before onboarding. Worth pricing when the CA is engaged |
+| **Foreign payment route** | None. A US or UK client cannot pay an Indian sole proprietor without Wise, Payoneer or a bank account set up to receive foreign currency. This is the one thing that would actually stop an international deal |
 | **DMARC** | At `p=none`. Tighten to `p=quarantine` once mail has been reliable for a few weeks |
 | **Domain auto-renew** | Off. Turn on, or diarise Nov 2028 |
 | **GitHub 2FA** | Not enabled on the owner account, which controls the website |
