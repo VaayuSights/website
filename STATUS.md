@@ -209,6 +209,24 @@ that will convert better than anything stock.
 
 ---
 
+## Delivering a pilot
+
+`enquiry-playbook.md` §4 says what the sample deliverable contains.
+`pilot-runbook.md` says how the forty-eight hours actually run, and
+`sample-report-template.html` is what goes back to the client.
+
+The practical gap that runbook closes first: **there was no way for a client to
+send a thousand images.** Decided now — their own transfer route if they have
+one, otherwise a per-job Google Drive folder on the VaayuSights account, or
+WeTransfer for a one-off batch under 2GB. Never a personal account, and source
+data is deleted on completion as the NDA and services agreement both say.
+
+Two things still block accepting a pilot: the NDA and the services agreement are
+drafted but unreviewed, and three outreach emails already promise "we work under
+NDA". One CA appointment clears both.
+
+---
+
 ## The rate card
 
 Built 14 Nov. **It is deliberately not in this repo, because this repo is
