@@ -219,14 +219,26 @@ there for the people who turn it on, not for the ones who don't.
 
 Caption:
 
-> Fifty seconds on what we actually do.
+> You don't need us to fly.
 >
-> Imagery comes in — flown by your team, your operator, or a capture we
-> arrange. Ranked findings go out.
+> If you already have a drone team, or surveys sitting on a drive, that's the
+> whole starting point.
+>
+> Fifty seconds on what happens after the flying — imagery in, ranked findings
+> out.
 >
 > No narration. It reads with the sound off.
 >
 > #AerialInspection #DroneInspection #SolarOandM #WindEnergy #AssetIntegrity
+
+**Why that first line.** On mobile LinkedIn cuts to "see more" at around 140
+characters, so the opening line does all the work. "You don't need us to fly"
+stops a scroll because it is the opposite of what every other drone company
+posts, and it is the one sentence that separates this practice from them.
+
+Four or five hashtags, at the end. More reads as reach-chasing. And no question
+tacked on the end to farm comments — this audience is technical enough to
+recognise engagement bait.
 
 First comment: `vaayusights.in/about`
 
