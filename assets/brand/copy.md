@@ -203,6 +203,12 @@ Image: `social/posts/post5-cleaning.png`
 
 File: `video/vaayusights-about-square.mp4` (1080×1080, 50 seconds)
 
+Re-cut 17 Nov: the "who we are" line said "serving India", which was accurate
+but read as a limit to anyone outside it. The square now says "VaayuSights is an
+aerial-data analysis practice." and the wide cut on /about says "working
+wherever the data is" — true, since the work is remote, and it turns the
+geography from a boundary into a point in our favour.
+
 Upload the file to LinkedIn directly. Do not post a link to the copy on the
 website — LinkedIn buries posts that send people off the platform, and a
 native upload autoplays in the feed while a link does not.
