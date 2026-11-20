@@ -84,6 +84,12 @@ projects, about, contact. All five confirmed added to the priority crawl queue.
 Do not resubmit; Google states plainly that repeat requests do not change queue
 position. Check progress with `site:vaayusights.in` on Google in about a week.
 
+**20 Nov:** the week is up and the check is due. Nothing here is updated until
+Search Console or `site:vaayusights.in` has actually been looked at — do not
+write a result from a WebSearch, which was wrong twice on 13 Nov. The GitHub
+repo's description and Website fields were re-read from the API on 20 Nov and
+both are correct, so that item is closed for good.
+
 Inbound links as of 13 Nov, all three confirmed pointing at the site: the
 GitHub repo's Website field, the LinkedIn page's Website URL, and the Google
 Business Profile's website. That is the lot. Directory listings (IndiaMART,
@@ -260,7 +266,7 @@ Launch post Tue 10 Nov, then Wednesdays. The brand film took the 18 Nov slot on
 | Date | Post | Where |
 |---|---|---|
 | Tue 10 Nov | Launch — 100,000 panels | copy.md §1 · posted |
-| Wed 18 Nov | Brand film, 50s square | copy.md §1c · `video/` |
+| Wed 18 Nov | Brand film, 50s square | copy.md §1c · `video/` · posted |
 | Wed 25 Nov | The question nobody asks | copy.md §1b · `social/posts/post2-overlap` |
 | Wed 2 Dec | Thermal — what a hotspot tells you | copy.md §1b · `social/posts/post3-thermal` |
 | Wed 9 Dec | For drone operators | copy.md §1b · `social/posts/post4-operators` |
